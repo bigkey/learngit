@@ -6,3 +6,5 @@ yes
 
 fuck
 i love you
+
+chinese
